@@ -20,3 +20,15 @@ Task Requirements:
 Deliverable:
 
 Provide a well-written, personalized email response that addresses the main points and matches the desired tone. The email should include an appropriate salutation, body, and sign-off. Make sure the response is free of grammar and spelling errors.
+
+# Follow Up Email
+Write a follow-up email to [first name], whose email is [email] after [attending/downloading] the following information []
+
+Requirements:
+Thank them for their interest.
+Provide a call to action regarding the downloaded/attended material.
+Suggest booking time on my calendar.
+Suggest 1-2 other areas of interest.
+
+Deliverable;
+Well written but casual email that addresses the points. Check for errors and spelling mistakes
