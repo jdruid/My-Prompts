@@ -1,8 +1,11 @@
 # My Favorite Prompts
+This is a collection of my favorite prompts. Some I use all the time, some I had good success with.
 
 ## Installation
+Copy and paste into your favorite GenAI (Microsoft Copilot or ChatGPT)
 
 ## Usage
+Look for keywords within the prompt to either update or remove based on your personal preferences
 
 ## Credits
 
