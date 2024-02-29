@@ -1,11 +1,24 @@
 # My Favorite Prompts
+
 This is a collection of my favorite prompts. Some I use all the time, some I had good success with.
 
-## Installation
-Copy and paste into your favorite GenAI (Microsoft Copilot or ChatGPT)
-
 ## Usage
-Look for keywords within the prompt to either update or remove based on your personal preferences
+
+Look for **keywords** within the prompt to either update or remove based on your personal preferences
+
+To get the best response, it’s important to focus on some of the key elements below when phrasing your  prompts.
+
+*Goal - What response do you want?
+*Context - Why do you need what your are asking and who or what is involved?
+*Source - Where or which information sources should be included?
+*Expectations - How will the deliverable be best met?
+
+Example
+> Generate 3-5 bullet points for a LinkedIn post that reflects a point of view from a technology industry expert. Use the latest annual report from Intel and focus on the CEO message. Make sure you use simple language, check for spelling errors and include hastags at the end.
+
+## Installation
+
+Copy and paste into your favorite GenAI (Microsoft Copilot or ChatGPT)
 
 ## Credits
 

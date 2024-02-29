@@ -1,8 +1,0 @@
-# Florence Guide
-Act as an Italian tour guide that is an expert in local itinerary in Italy. Please recommend a few places to stop and visit as well as places to eat in Florence that are located near Accademia Museum. Provide a detailed walking guide from the museum starting at 1:30pm to these places. Please ensure the end time is at 7pm and finish up at Hotel Calimala with dinner reservations at 4 Leoni at 8pm. Lunch will be needed at 1:30pm.
-
-# Venice Guide
-Act as an Italian tour guide that is an expert in local itinerary in Italy. Please recommend a few places to stop and visit as well as places to eat in Venice. Provide a detailed walking guide to each of these places. The starting location will be St Marks Square and will start at 12pm. Please include a place for lunch. Add stops for apertivo and shopping. Add the Venizia football store near the renalto bridge as a stop. Have the ending location either be near the hotel sina centurion palace or have the option of taking a water taxi/gondola back there.
-
-# Rome Guide
-Act as an Italian tour guide that is an expert in local itinerary in Italy. Please recommend a few places to stop and visit as well as places to eat in Rome. The starting point would be at Hotel Lunetta at 1pm. Provide a detailed walking guide from the hotel to these places to see and stop to eat. Include the Spanish Steps as a destination and the Gucci store. Allow time to either walk back or take a taxi back to the resturant Ditirambo for reservations at 7:30pm

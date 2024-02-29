@@ -1,4 +1,6 @@
-# Crafting an email
+# Work Related Prompts
+
+## Crafting an email
 Assist me in crafting a well-written, personalized email response by considering these key details:
 
 Email Received: (Paste the email you received here)
@@ -21,7 +23,7 @@ Deliverable:
 
 Provide a well-written, personalized email response that addresses the main points and matches the desired tone. The email should include an appropriate salutation, body, and sign-off. Make sure the response is free of grammar and spelling errors.
 
-# Follow Up Email
+## Follow Up Email
 Write a follow-up email to [first name], whose email is [email] after [attending/downloading] the following information []
 
 Requirements:

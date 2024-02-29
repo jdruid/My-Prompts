@@ -1,9 +1,0 @@
-# Book Author
-Act as a childrens book author and provide me a description of the following text about the Pawesome Trio "The Pawsome Trio and the Mystery of the Missing Remote Control"
-
-The Pawsome Trio are three dogs who live with their owner, Mr. Jones, in a cozy apartment. They are Max, a brave Saint Bernard, Barney, a smart Corgi, and Fred, a playful Terrier. 
-They have a secret: they can talk and read when humans are not around. They love to watch TV with Mr. Jones, especially detective shows. 
-One day, they notice that the remote control is missing from the couch. They wonder who could have taken it and why.
-
-Deliverable:
-Provide 5 chapters for a childrens book containing titles for each chapter
