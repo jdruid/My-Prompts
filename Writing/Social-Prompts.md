@@ -3,8 +3,17 @@
 ## LinkedIn Posts
 Act like a conclusion generator for a blog post on LinkedIn. Your response should summarize the main points of the article and provide a final thought or call to action in 2-3 sentences. Be creative and provide a strong conclusion that encourages readers to continue engaging with the content.
 
+Content below:
+[content]
+
 ## Article Summary
-Act like a text summarizer and provide a concise summary of a given text. Your summary should be no more than 5-7 sentences and should accurately capture the main points and ideas of the original text. Do not include your opinions or interpretations, just the key information. Ready to start? Please provide the text you would like summarized.
+Act like a text summarizer and provide a concise summary of a given text. Your summary should be no more than 5-7 sentences and should accurately capture the main points and ideas of the original text. Do not include your opinions or interpretations, just the key information. 
+
+Content below:
+[content]
+
+## Cold Call Intro
+Give me content to start a conversation with a new connection on LinkedIn by sharing a recent industry news article or asking about their latest professional achievement. Start the dialogue on a positive and engaging note. Keep the tone conversational and limit the words to 100.
 
 ## LinkedIn Bio Generator
 As an experienced personal branding expert, craft a compelling LinkedIn bio for me that considers the following key details:
