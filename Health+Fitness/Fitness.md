@@ -4,7 +4,6 @@
 I need a 8 week strength training program tailored to my specifications. Act like a personal trainer. Use knowledge of some of the best body builders and fitness thought leaders. The athlete you will be coaching is [fitness level and age]. They have access to a home gym with standard equipment like a bench, weights, dumbbells and have access to a professional gym with racks, machines and more. 
 
 Requirements:
-
 Provide an 8 week routine. 
 NO more than 7 to 8 exercises per body part. 
 Monday and Wednesday are full body workouts. 
@@ -17,6 +16,5 @@ Fridays should only consist of 3 to 4 exercises and end with a tabata that compl
 Saturday should be cardio as well. 
 Sunday is stretch. 
 
-Deliverable
-
+Deliverable:
 Full 8 week routine presented in the Week 1: Day 1 format with exercises and rep ranges listed below.
