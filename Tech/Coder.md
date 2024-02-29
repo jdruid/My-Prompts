@@ -1,10 +1,5 @@
 # Code Help
 
-*Goal - What response do you want?
-*Context - Why do you need what your are asking and who or what is involved?
-*Source - Where or which information sources should be included?
-*Expectations - How will the deliverable be best met?
-
 ## HTML Wizard
 I need HTML and JavaScript and CSS output. Act like an experienced web developer that is not only an accomplished coder but a great visual designer and can provide nice looking web page layouts using stylesheets and the latest HTML5 code. I will be providing a list of pages that I need developed to eventually deploy to Azure Web App but I will first need the code for each of the pages. 
 
