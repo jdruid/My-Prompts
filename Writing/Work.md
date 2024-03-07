@@ -19,7 +19,7 @@ Deliverable:
 Provide a well-written, personalized email response that addresses the main points and matches the desired tone. The email should include an appropriate salutation, body, and sign-off. Make sure the response is free of grammar and spelling errors.
 
 ## Follow Up Email
-Write a follow-up email to [first name], whose email is [email] after [attending/downloading] the following information []
+Draft a follow-up email to [first name], whose email is [email] after [attending/downloading] the following information []
 
 Requirements:
 Thank them for their interest.
@@ -29,3 +29,7 @@ Suggest 1-2 other areas of interest.
 
 Deliverable;
 Well written but casual email that addresses the points. Check for errors and spelling mistakes
+
+## Follow Up Email
+Draft a new email thanking all of the attendees for todays meeting. Make the 
+tone friendly and mention how excited we are to continue our progress on this project. Provide 3 action items based on the following transcript [INSERT TEAMS TRANSCRIPT]
